@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Vapiano",
+        "cuisine": "italian"
+    },
+    {
+        "name": "Hans im Gluck",
+        "cuisine": "english"
+    },
+    {
+        "name": "Pizza Hut",
+        "cuisine": "italian"
+    },
+    {
+        "name": "Royal Garden",
+        "cuisine": "assian"
+    },
+    {
+        "name": "Lindau",
+        "cuisine": "german"
+    }
+]
